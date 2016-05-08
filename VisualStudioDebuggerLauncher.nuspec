@@ -4,6 +4,7 @@
         <id>VisualStudioDebuggerLauncher</id>
         <version>1.0.0</version>
         <authors>Jeremy Beavon</authors>
+        <projectUrl>https://github.com/jeremybeavon/VisualStudioDebuggerLauncher</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Provides a method that attches a debugger to a currently running Visual Studio instance.</description>
     </metadata>

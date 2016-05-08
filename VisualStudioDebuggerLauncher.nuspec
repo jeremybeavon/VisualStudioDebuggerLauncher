@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>VisualStudioDebuggerLauncher</id>
+        <version>1.0.0</version>
+        <authors>Jeremy Beavon</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Provides a method that attches a debugger to a currently running Visual Studio instance.</description>
+    </metadata>
+    <files>
+        <file src="VisualStudioDebuggerLauncher\bin\Release\EnvDTE.dll" target="lib\EnvDTE.dll" />
+        <file src="VisualStudioDebuggerLauncher\bin\Release\stdole.dll" target="lib\stdole.dll" />
+        <file src="VisualStudioDebuggerLauncher\bin\Release\VisualStudioDebuggerLauncher.dll" target="lib\VisualStudioDebuggerLauncher.dll" />
+    </files>
+</package>
